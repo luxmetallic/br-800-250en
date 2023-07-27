@@ -174,15 +174,13 @@
       opacity: 1;
     }
 
-    .shop-now {
-      margin: 20px 0;
-    }
 
   </style>
 
 
 </head>
  <body>
+ <a href="https://luxmetallic.com">
   <div class="banner" id="animatedBanner">
     <div class="cover-image1"></div><img class="cover-image1" src="slide2 800.png" alt="cover" style="animation-delay:0.1s;">
     <div class="cover-image1"></div><img class="cover-image1" src="slide1 800.png" alt="cover" style="animation-delay:0s;">
@@ -203,5 +201,6 @@ into one card.</div>
     <div class="cover-image"></div><img class="cover-image" src="slide2 800.png" alt="cover" style="animation-delay:17.1s;">
     <div class="cover-image"></div><img class="cover-image" src="slide1 800.png" alt="cover" style="animation-delay:17.2s;">
     </div>
+ </a>
  </body>
 </html>
